@@ -33,7 +33,9 @@ The script performs the following steps:
 
 ## Screenshot
 
-<img src="StatisticalPlot.png" width="600"/>
+<img src="StatisticalPlot_1.png" width="600"/>
+
+<img src="StatisticalPlot_2.png" width="600"/>
 
 ---
 
