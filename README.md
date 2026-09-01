@@ -36,3 +36,13 @@ The script performs the following steps:
 <img src="StatisticalPlot.png" width="600"/>
 
 ---
+
+## License
+This project is currently available for personal or internal use.
+
+If you would like to distribute or modify the project, add an appropriate open-source license, such as the MIT License.
+
+Author
+Created by **Brindaban Kundu**
+
+GitHub:  https://github.com/BrindabanKundu
