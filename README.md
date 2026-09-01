@@ -25,6 +25,7 @@ The script performs the following steps:
 .
 ├── Data.csv
 ├── Stat_01.ipynb
+├── StatisticalPlot.png
 └── README.md
 ```
 
@@ -32,6 +33,6 @@ The script performs the following steps:
 
 ## Screenshot
 
-<img src="StatisticalPlot.png" width="400"/>"
+<img src="StatisticalPlot.png" width="600"/>"
 
 ---
