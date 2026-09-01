@@ -31,7 +31,7 @@ The script performs the following steps:
 
 ---
 
-## Screenshot
+## Screenshots
 
 <img src="StatisticalPlot_1.png" width="600"/>
 
