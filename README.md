@@ -28,4 +28,10 @@ The script performs the following steps:
 └── README.md
 ```
 
+---
 
+## Screenshot
+
+<img src="StatisticalPlot.png" width="400"/>"
+
+---
