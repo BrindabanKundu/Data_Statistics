@@ -1,5 +1,5 @@
-﻿Set,Number,Purpose,Chem1,Chem2,Chem3,Chem4,Chem5,Chem6,Parameter_1,Parameter_2,Parameter_3,Parameter_4,Parameter_5,Parameter_6,Parameter_7,Parameter_8,Parameter_9,Parameter_10,Mval_01.1,Mval_01.2,Mval_02,Mval_03.1,Mval_03.2,Mval_04,Mval_05,Mval_06.1,Mval_06.2,Remarks
-ExperimentNumber,CellNumber,Purpose,ROPXXX,Polymer_X,LPP1,Polymer1_Content,Additive1,SolventSystem,Substrate,LPP_Thickness,PrebakeTime,PrebakeTemperature,PostBake1Time,PostBake1Temperature,LPUVB,LPUVIncidentAngle,AnnealingTime,AnnealingTemperature,CellGap_Optipro_Std,Pretilt_Optipro_IS,Pretilt_Optipro_Std,VHR_short_60C,VHR_long_60C,IonDensity_60C,rDC,ACM_2min,ACM_60min,
+﻿Set,Number,Purpose,Chem1,Chem2,Chem3,Chem4,Chem5,Chem6,Parameter_1,Parameter_2,Parameter_3,Parameter_4,Parameter_5,Parameter_6,Parameter_7,Parameter_8,Parameter_9,Parameter_10,Mval_01_1,Mval_01_2,Mval_02,Mval_03_1,Mval_03_2,Mval_04,Mval_05,Mval_06_1,Mval_06_2,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 20000103OPA,1,Condition_0001,CHM804,DXX,DWR,5,,826,PJ-1,100,90,80,40,200,22,40,30,130,4.68,,88.66,98.89,95.07,31,,,,x
 20000103OPA,2,Condition_0001,CHM804,DXX,DWR,5,,826,PJ-1,100,90,80,40,200,22,40,30,130,4.6,,88.71,98.92,94.96,36,,,,
 20000103OPA,3,Condition_0001,CHM804,DXX,DWR,5,,826,PJ-1,100,90,80,40,200,22,40,30,130,4.55,,88.68,99.03,95.53,27,,,,
