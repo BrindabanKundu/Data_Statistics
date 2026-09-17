@@ -39,6 +39,8 @@ The script performs the following steps:
 
 <img src="StatisticalPlot_3.png" width="600"/>
 
+<img src="StatisticalPlot_4.png" width="600"/>
+
 ---
 
 ## License
